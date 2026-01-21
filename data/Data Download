@@ -1,0 +1,4 @@
+Download the Data set from the source. As the source file is large.
+Source: UCI Machine Learning Repository - Online Retail II
+Description: Transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
+Key Columns: InvoiceDate, Price, Quantity, Customer ID, Country.
