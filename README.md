@@ -105,5 +105,6 @@ _(You can upload your `segment_distribution.png` to GitHub and link it here)_
 
 ## Contact
 
-- **Your Name:** Namish M S
+- **Name:** Namish M S
 - **LinkedIn:** www.linkedin.com/in/namish-m-s-9b2b41346
+
